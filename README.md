@@ -21,10 +21,10 @@ Some things were created with JavaScript for study purposes without using specif
 
 ## Credits
 -All images and sound were used solely as a means of teaching and study. Nonprofit.
+</br>
+</br>
 
-</br>
-</br>
-</br>
 [![Note](https://img.shields.io/badge/Note-FF0000?style=for-the-badge&logoColor=white&labelColor=101010)]()
-</br>
+
+
 I will  update the code as is somewhat old. I did it at an early stage of my career.
