@@ -1,6 +1,6 @@
 # DragonCrush Z/RL
 
-[![YouTube](https://img.shields.io/badge/Dragon_Crush_Z-FF0000?style=for-the-badge&logoColor=white&labelColor=101010)]()
+[![DBZ](https://img.shields.io/badge/Dragon_Crush_Z-FF0000?style=for-the-badge&logoColor=white&labelColor=101010)]()
 
 It's a CandyCrush style game with Dragon Ball Z animations. For study and teaching purposes. </br>
 Final school project of the course. Licenciatura en Computacion.
@@ -18,3 +18,9 @@ Some things were created with JavaScript for study purposes without using specif
 
 ## Credits
 -All images and sounds were used solely as a means of teaching and study. Nonprofit.
+</br>
+</br>
+</br>
+[![Note](https://img.shields.io/badge/Note-FF0000?style=for-the-badge&logoColor=white&labelColor=101010)]()
+</br>
+I will upload updates to the code as it is somewhat old. It was in my beginnings in programming.
