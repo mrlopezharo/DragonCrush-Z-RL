@@ -26,5 +26,4 @@ Some things were created with JavaScript for study purposes without using specif
 
 [![Note](https://img.shields.io/badge/Note-FF0000?style=for-the-badge&logoColor=white&labelColor=101010)]()
 
-
 I will  update the code as is somewhat old. I did it at an early stage of my career.
