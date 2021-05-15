@@ -10,6 +10,8 @@ Final school project of the course. Licenciatura en Computacion.
 The problem was: Create a CandyCrush style game with javaScript and the Canvas. Using matrices and a function that repaints the screen depending on the amount of FPS you want.
 Some things were created with JavaScript for study purposes without using specific libraries, for study purposes.
 
+[![PlayDBZ](https://img.shields.io/badge/Play-FF0000?style=for-the-badge&logoColor=white&labelColor=101010)](https://dragoncrushz.web.app/)
+
 ## Requirements
 -Any web browser.
 
